@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlenYing/Test-vue/issues"
   },
-  "homepage": "https://github.com/AlenYing/Test-vue#readme"
+  "homepage": "https://github.com/AlenYing/Test-vue#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
