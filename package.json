@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/AlenYing/Test-vue#readme",
   "dependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "vue": "^2.6.11",
     "vue-hot-reload-api": "^2.3.4"
   },
